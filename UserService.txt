@@ -2,8 +2,6 @@ Get the user data...
 process the data
 
 
-create an avatar for user saved
-
 login and logout
 
 change 1
